@@ -1,3 +1,3 @@
 ﻿  SequentialSummationWithLocks.cpp
-C:\Users\61416\source\repos\SequentialSummationWithLocks\SequentialSummationWithLocks\SequentialSummationWithLocks.cpp(43,17): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\61416\source\repos\SequentialSummationWithLocks\SequentialSummationWithLocks\SequentialSummationWithLocks.cpp(110,18): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
   SequentialSummationWithLocks.vcxproj -> C:\Users\61416\source\repos\SequentialSummationWithLocks\Debug\SequentialSummationWithLocks.exe
